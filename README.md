@@ -24,6 +24,10 @@
 <a href="https://github.com/maxrodrigo/uz">µz</a> - <small>ZSH Micro Plugin Manager.</small>
 <br>
 <a href="https://github.com/maxrodrigo/gitster">gitster</a> - <small>A Gister ZSH theme with no dependencies.</small>
+<br>
+<a href="https://github.com/maxrodrigo/zsh-history">zsh-history</a> - <small>Sets sane ZSH history options.</small>
+<br>
+<a href="https://github.com/maxrodrigo/zsh-kubernetes-contexts">zsh-kubernetes-contexts</a> - <small>Kubectl contexts alias and completion definition for Zsh.</small>
 
 :alien: others
 
