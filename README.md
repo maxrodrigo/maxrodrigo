@@ -31,7 +31,9 @@
 
 :alien: others
 
-<a href="https://github.com/maxrodrigo/wasabi">Wasabi</a> - <small>A simple yet useful keypad</small>
+<a href="https://github.com/maxrodrigo/hugo-theme-wisdom">Wisdom Hugo Theme</a> - <small>Fast, minimalist, and monospace.</small>
+<br>
+<a href="https://github.com/maxrodrigo/wasabi">Wasabi</a> - <small>A simple yet useful keypad.</small>
 
 <br>
 
