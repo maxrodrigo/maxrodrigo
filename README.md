@@ -19,8 +19,6 @@
 
 <a href="https://github.com/maxrodrigo/tmux-nordvpn">NordVPN Tmux Plugin</a>
 <br>
-<a href="https://github.com/maxrodrigo/homesick">homesick</a> - <small>My daily dotfiles.</small>
-<br>
 <a href="https://github.com/maxrodrigo/uz">µz</a> - <small>ZSH Micro Plugin Manager.</small>
 <br>
 <a href="https://github.com/maxrodrigo/gitster">gitster</a> - <small>A Gister ZSH theme with no dependencies.</small>
